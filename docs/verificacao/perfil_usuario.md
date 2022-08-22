@@ -1,10 +1,10 @@
 ## 1. Introdução
 
-O presente documento visa verificar o artefato de [Perfil de Usuário](../analise_requisitos/contexto_uso/perfil_usuario.md) , afim de procurar quaisquer erros no modelo em termos de notação, processo ou procedimentos através da técnica de inspeçōes.
+Neste documento será aplicado um checklist para verificação dos artefatos
 
 ## 2. Metodologia
 
-Foi utilizado um checklist para a realização da inspeção:
+Segue o checklist
 
 | ID  | Tópico                                                                     | Análise |
 | --- | -------------------------------------------------------------------------- | ------- |
@@ -14,7 +14,7 @@ Foi utilizado um checklist para a realização da inspeção:
 | 04  | A metodologia está bem explicada?                                          | ✔       |
 | 05  | Foram identificadas as pessoas envolvidas?                                 | ✔       |
 | 06  | Foi identificado o ambiente?                                               | ✔       |
-| 07  | Foram identificadas as tarefas a serem cumpridas?                          | ✔       |
+| 07  | Foram identificadas as tarefas a serem cumpridas?                          |  ✖      |
 | 08  | Foram identificados os passos para execução das tarefas?                   | ✔       |
 | 09  | Foi identificado o papel que a interface tem para alcançar o objetivo?     | ✔       |
 | 10  | Foi identificado as motivações que levam o usuário a utilizar a aplicação? | ✔       |
@@ -35,5 +35,5 @@ De acordo com o planejamento foi encontrado alguns problemas mas que ja seriam e
 
 | Versão | Data       | Descrição                                                     | Autor(es)                 |
 | ------ | ---------- | ------------------------------------------------------------- | ------------------------- |
-| 1.0    | 06/04/2022 | Criação do documento                                          | Matheus Salim de Oliveira |
-| 1.1    | 06/04/2022 | Adicionando informações sobre a verificação do Perfil Usuário | Matheus Salim de Oliveira |
+| 1.0    | 22/08/2022 | Criação do documento                                          |Guilherme Nishimura da Silva |
+
